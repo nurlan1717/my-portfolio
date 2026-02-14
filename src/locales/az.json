@@ -1,0 +1,187 @@
+{
+  "common": {
+    "name": "Ad",
+    "tiny": "Kiçik",
+    "errorVideo": "Brauzeriniz videoları dəstəkləmir.",
+    "context": "Kontekst",
+    "objectives": "Məqsədlər",
+    "icon": "İkon",
+    "back": "Geri",
+    "search": "Axtar",
+    "files": "Fayllar",
+    "folder": "Qovluq",
+    "next": "Növbəti",
+    "projects": "Layihələr",
+    "go": "Keç",
+    "address": "Ünvan",
+    "design": "Dizayn",
+    "tasksDone": "Layihədə görülən işlər",
+    "techInfo": "Texniki məlumatlar",
+    "componentsDot": "Komponentlər :",
+    "components": "Komponentlər",
+    "models": "Modellər",
+    "model": "Model",
+    "links": "Linklər",
+    "link": "Link",
+    "hddDots": "HDD :",
+    "disks": "Disklər",
+    "quantity": "Miqdar",
+    "viewModel": "Modelə keç",
+    "CDM": "CDM",
+    "PDM": "PDM",
+    "years": "yaş",
+    "webdev": "Frontend Developer və Kibertəhlükəsizlik Mütəxəssisi",
+    "textDocument": "Mətn sənədi",
+    "list": "Siyahı",
+    "modifications": "Dəyişikliklər",
+    "loading": "Yüklənir...",
+    "language": "Dil",
+    "french": "Fransızca",
+    "english": "İngiliscə"
+  },
+  "message": {
+    "welcome": "Kompüterimə xoş gəlmisiniz.",
+    "toBegin": "Başlamaq üçün istifadəçi adımın üzərinə klikləyin.",
+    "explainer": "Daxil olduqdan sonra kompüterimdəki qovluqları gəzə bilərsiniz. Desktop-a keçin və bütün layihələrimi görmək üçün Projects qovluğuna klikləyin."
+  },
+  "header": {
+    "disconnect": "Çıxış",
+    "shutdown": "Kompüteri söndür"
+  },
+  "modale": {
+    "fullscreenTitle": "Tam ekran rejimi artıq mövcuddur!",
+    "fullscreenFirstText": "Daha immersiv təcrübə üçün,",
+    "fullscreenSecondText": "Aşağıdakı ekran ikonuna klikləyin",
+    "control": "Nəzarət"
+  },
+  "buttons": {
+    "start": "Başla",
+    "send": "Göndər",
+    "downloadCV": "CV-ni yüklə",
+    "linkWebSite": "Sayta keç",
+    "linkRepository": "Repository-yə keç"
+  },
+  "windows": {
+    "contact": {
+      "name": "@:common.name",
+      "description": "Layihə haqqında danışmaq və ya sadəcə söhbət etmək istəyirsinizsə, mənə mesaj buraxın, ən qısa zamanda geri dönüş edəcəyəm!",
+      "email": "E-poçt",
+      "msgPlaceholder": "Mesajınızı bura yazın...",
+      "success": "Mesaj uğurla göndərildi",
+      "error": {
+        "email": " düzgün e-poçt ünvanı deyil",
+        "empty": "Göndərməzdən əvvəl bütün sahələri doldurun",
+        "unknown": "Mesaj göndərilə bilmədi. Birbaşa aşağıdakı e-poçt ünvanı ilə əlaqə saxlaya bilərsiniz: "
+      },
+      "send": "Göndər",
+      "cut": "Kəs",
+      "copy": "Kopyala",
+      "paste": "Yapışdır",
+      "undo": "Geri al",
+      "check": "Yoxla",
+      "spelling": "Orfoqrafiya",
+      "attach": "Əlavə et",
+      "priority": "Prioritet",
+      "sign": "İmza",
+      "to": "Kimə :",
+      "from": "Kimdən :",
+      "subject": "Mövzu :"
+    },
+    "cv": {
+      "altPicture": "təqdimat CV",
+      "education": "Təhsil",
+      "proExperience": "Peşəkar təcrübə"
+    },
+    "music": {
+      "title": "Başlıq",
+      "album": "Albom",
+      "addedThe": "Əlavə olunma tarixi",
+      "duration": "Müddət",
+      "link": "Linklər",
+      "artist": "İfaçı",
+      "description": "Portfolio üçün xüsusi yaradılmış pleylist, sevdiyim trekləri ehtiva edir.",
+      "visitOnSpotify": "Spotify-da dinlə",
+      "accessFirstSentence": "Bu funksiyaya daxil olmaq üçün,",
+      "accessSecondSentence": "Spotify hesabına qoşulmaq məcburidir",
+      "connectToSpotify": "Spotify-a qoşul",
+      "spotifyDisclaimer": "Bu pleylist və istifadəsi Spotify API vasitəsilə hazırlanıb",
+      "albumCover": "Albom örtüyü"
+    },
+    "pictures": {
+      "previous": "Əvvəlki şəkil",
+      "next": "Növbəti şəkil",
+      "rotateLeft": "Sola döndər",
+      "rotateRight": "Sağa döndər"
+    },
+    "documents": {
+      "about": {
+        "title": "Haqqında",
+        "contextFirstParagraph": "Bu layihə Windows XP dizaynına əsaslanan interaktiv bir portfolio nümunəsidir.",
+        "contextSecondParagraph": "Layihəni əsas götürərək üzərində dəyişikliklər etdim və öz ehtiyaclarıma uyğunlaşdırdım.",
+        "contextThirdParagraph": "Məqsədim klassik Windows XP interfeysini veb mühitində canlandırmaq və bunu portfolio formatında təqdim etmək idi.",
+        "contextFourthParagraph": "Layihə üzərində işləyərkən həm dizayn, həm də funksionallıq baxımından müxtəlif təkmilləşdirmələr etdim.",
+        "contextFifthParagraph": "Windows XP uşaqlıq dövrümün ilk əməliyyat sistemlərindən biri olduğu üçün bu dizayn mənim üçün ayrıca nostalji dəyər daşıyır.",
+        "contextSixthParagraph": "Layihə Vue.js, Vuex, Vue Router və SCSS texnologiyaları əsasında qurulub və öyrənmə məqsədilə inkişaf etdirilib.",
+        "contextSeventhParagraph": "Bu layihə təcrübə toplamaq, özümü inkişaf etdirmək və fərqli bir portfolio təqdim etmək üçün hazırlanıb.",
+        "secondTitle": "Təşəkkürlər",
+        "helpFirst": "Windows XP layihəsi bu interfeysi qurmaqda əsas baza rolunu oynadı.",
+        "helpSecond": "Spotify API musiqi məlumatlarını əldə etmək və göstərmək üçün istifadə olunub.",
+        "helpThird": "Sayt Vercel üzərindən host edilir.",
+        "helpFourth": "Windows XP şəkilləri Internet Archive mənbələrindən əldə edilib.",
+        "helpFifth": "Saytın mobil versiyası üçün Vue Mobile Detect kitabxanasından istifadə olunub."
+      },
+      "legal": {
+        "title": "Hüquqi məlumatlar",
+        "firstParagraph": "Bu sayt şəxsi portfolio və tədris məqsədi daşıyır.",
+        "edit": "Saytın redaktəsi",
+        "secondParagraph": "Bu sayt https://nurlanasadov.me ünvanında yerləşir və aşağıdakı şəxs tərəfindən idarə olunur:",
+        "thirdParagraph": "Nurlan Asadov, Sumqayıt, Azərbaycan.",
+        "hosting": "Hostinq",
+        "fourthParagraph": "Sayt Vercel üzərindən host edilir.",
+        "dirPublication": "Nəşr direktoru",
+        "fifthParagraph": "Nəşr direktoru: Nurlan Asadov.",
+        "contact": "Əlaqə",
+        "sixthParagraph": "Suallar üçün aşağıdakı e-poçt ünvanı ilə əlaqə saxlaya bilərsiniz:"
+      }
+    }
+  },
+  "project": {
+    "logma": {
+      "contextFirstParagraph": "Logma Production Rennes şəhərində yerləşən film istehsal şirkətidir.",
+      "contextSecondParagraph": "Sayt sıfırdan framework istifadə olunmadan yenidən quruldu.",
+      "contextThirdParagraph": "Sahibkarın saytı rahat idarə etməsi üçün back-office hazırlandı.",
+      "goalFirst": "Mövcud dizaynla saytın yenilənməsi",
+      "goalSecond": "Responsiv dizayn",
+      "goalThird": "Back-office hazırlanması",
+      "goalFourth": "SEO optimizasiyası",
+      "goalFifth": "Yüklənmə sürətinin artırılması",
+      "goalSixth": "Saytın yayıma verilməsi"
+    },
+    "pangaia": {
+      "contextFirstParagraph": "Pangaia bitkilər haqqında məlumatlandırıcı açıq mənbə layihədir.",
+      "contextSecondParagraph": "Bağçanı idarə etmək üçün əyləncəli interfeys.",
+      "contextThirdParagraph": "Gamification ilə yeni bitkilərin kəşfi.",
+      "contextFourthParagraph": "İstifadəçi yerinə görə flora məlumatları.",
+      "goalFirst": "Demo rejimdə sınaq",
+      "goalSecond": "Bitki məlumat səhifəsinə keçid",
+      "goalThird": "Bağçanı modelləşdirmək",
+      "goalFourth": "Bitki əlavə etmək",
+      "goalFifth": "Canlı hava məlumatı",
+      "goalSixth": "Xatırlatmalar",
+      "tasksDoneFirst": "Database dizaynına kömək",
+      "tasksDoneSecond": "UI dizayn",
+      "tasksDoneThird": "UX testləri",
+      "tasksDoneFourth": "Dashboard hazırlanması",
+      "tasksDoneFifth": "Bitki siyahısı səhifəsi",
+      "tasksDoneSixth": "API və Swagger sənədləşməsi",
+      "CDMText": "Qismən konseptual model",
+      "PDMText": "Tam əlaqəli database modeli"
+    }
+  },
+  "alt": {
+    "logoStart": "XP start loqosu qara",
+    "logoLoading": "XP yüklənir loqosu",
+    "logoLogin": "XP login loqosu ağ",
+    "currLang": "Cari dil"
+  }
+}

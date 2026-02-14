@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "name": {
+        "en": "Web/Apps",
+        "az": "Web/Tətbiqlər"
+      },
+      "projects": [
+        {
+          "name": "Gameverse Hub",
+          "icon": "projects/folder-techguard-icon.ico",
+          "title": {
+            "en": "Gameverse Hub - Gaming Platform",
+            "az": "Gameverse Hub - Oyun Platforması"
+          },
+          "date": {
+            "en": "2025",
+            "az": "2025"
+          },
+          "componentName": "GameverseContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "MasterUni",
+          "icon": "projects/folder-techguard-icon.ico",
+          "title": {
+            "en": "MasterUni - University Selection Platform",
+            "az": "MasterUni - Universitet Seçim Platforması"
+          },
+          "date": {
+            "en": "2025 - Current",
+            "az": "2025 - Aktual"
+          },
+          "componentName": "MasteruniContent",
+          "isFocus": true,
+          "isActive": true
+        },
+        {
+          "name": "Azmiu Tələbə Kabinet",
+          "icon": "projects/folder-techguard-icon.ico",
+          "title": {
+            "en": "AzMIU Student Cabinet - Student Portal",
+            "az": "AzMİU Tələbə Kabineti - Tələbə Portalı"
+          },
+          "date": {
+            "en": "2025",
+            "az": "2025"
+          },
+          "componentName": "AzmiuContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "CPY Synergy",
+          "icon": "projects/folder-techguard-icon.ico",
+          "title": {
+            "en": "CPY Synergy - Corporate Website",
+            "az": "CPY Synergy - Korporativ Vebsayt"
+          },
+          "date": {
+            "en": "2025",
+            "az": "2025"
+          },
+          "componentName": "CpyContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "TechGuard Academy",
+          "icon": "projects/folder-techguard-icon.ico",
+          "title": {
+            "en": "TechGuard Academy - Cybersecurity Training Platform",
+            "az": "TechGuard Academy - Kibertəhlükəsizlik Tədris Platforması"
+          },
+          "date": {
+            "en": "2026",
+            "az": "2026"
+          },
+          "componentName": "TechguardContent",
+          "isFocus": false,
+          "isActive": false
+        },
+        {
+          "name": "ConTheron",
+          "icon": "projects/folder-techguard-icon.ico",
+          "title": {
+            "en": "ConTheron - Health Monitoring System",
+            "az": "ConTheron - Sağlamlıq Monitorinq Sistemi"
+          },
+          "date": {
+            "en": "2025",
+            "az": "2025"
+          },
+          "componentName": "ContheronContent",
+          "isFocus": false,
+          "isActive": false
+        }
+      ]
+    }
+  ]
+}

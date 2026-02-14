@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="prismaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5A67D8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2D3748;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#prismaGradient)" d="M12 2L4 6v6l8 8 8-8V6l-8-4zm6 8.5l-6 6-6-6v-4l6-3 6 3v4z"/>
+  <path fill="#fff" d="M12 7l-4 2.5v5l4 4 4-4v-5L12 7zm0 2l2 1.2v3.6l-2 2-2-2v-3.6L12 9z"/>
+</svg>

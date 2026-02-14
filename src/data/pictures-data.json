@@ -1,0 +1,44 @@
+{
+  "pictures": [
+    {
+      "id": 1,
+      "title": "dog.jpeg",
+      "url": "/img/icons/pictures/carroussel/dog.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "tortum.jpeg",
+      "url": "/img/icons/pictures/carroussel/tortum.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "cr7.jpeg",
+      "url": "/img/icons/pictures/carroussel/cr7.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "fantasticFour.jpeg",
+      "url": "/img/icons/pictures/carroussel/fantasticFour.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Alena.jpeg",
+      "url": "/img/icons/pictures/carroussel/Alena.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "incubation.jpeg",
+      "url": "/img/icons/pictures/carroussel/incubation.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "divacademy.jpeg",
+      "url": "/img/icons/pictures/carroussel/divacademy.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "camp.jpeg",
+      "url": "/img/icons/pictures/carroussel/camp.jpeg"
+    }
+  ]
+}

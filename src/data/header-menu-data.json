@@ -1,0 +1,32 @@
+{
+  "menuHeaderItems": {
+    "default": {
+      "en": ["File", "Edit", "View", "Tools"],
+      "az": ["Fayl", "Redaktə", "Baxış", "Alətlər"]
+    },
+    "minesweeper": {
+      "en": ["Game", "Help"],
+      "az": ["Oyun", "Kömək"]
+    },
+    "notepad": {
+      "en": ["File", "Edit", "View", "Help"],
+      "az": ["Fayl", "Redaktə", "Baxış", "Kömək"]
+    },
+    "images": {
+      "en": ["File", "Edit", "Favorites", "Tools", "Help"],
+      "az": ["Fayl", "Redaktə", "Seçilmişlər", "Alətlər", "Kömək"]
+    },
+    "documents": {
+      "en": ["File", "Edit", "View", "Favorites", "Tools", "Help"],
+      "az": ["Fayl", "Redaktə", "Baxış", "Seçilmişlər", "Alətlər", "Kömək"]
+    },
+    "contact": {
+      "en": ["File", "Edit", "View", "Insert", "Format", "Tools", "Message", "Help"],
+      "az": ["Fayl", "Redaktə", "Baxış", "Daxil et", "Format", "Alətlər", "Mesaj", "Kömək"]
+    },
+    "none": {
+      "en": [],
+      "az": []
+    }
+  }
+}

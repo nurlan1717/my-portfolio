@@ -1,0 +1,177 @@
+{
+  "name": "Portfolio - Playlist",
+  "images": [
+    {
+      "url": "/img/album-covers/playlist-cover.webp"
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/0Nqt3sj4RqgdEVjmHCfSBz?si=b9334c979091439a"
+  },
+  "tracks": {
+    "items": [
+      {
+        "id": "5PftEBX7NnidlsyL5I1YIB",
+        "name": "Shape of My Heart",
+        "album": {
+          "name": "Ten Summoner's Tales",
+          "images": [
+            {
+              "url": "/img/album-covers/shape.webp"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5PftEBX7NnidlsyL5I1YIB",
+            "deezer": "https://www.deezer.com/track/3154296"
+          }
+        },
+        "artists": [
+          {
+            "name": "Sting"
+          }
+        ],
+        "added_at": "2024-12-20T14:28:55Z",
+        "duration_ms": 274076
+      },
+      {
+        "id": "5BH4zfMUbea376GQp5okHw",
+        "name": "Бродяга",
+        "album": {
+          "name": "Gramm Kaifa",
+          "images": [
+            {
+              "url": "/img/album-covers/elbrus.jpg"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4XYmHQMmFOFw7NaOINtmtb?si=4629e48363894857",
+            "deezer": "https://link.deezer.com/s/32rLNTYNKvxfbXf9AsXQs"
+          }
+        },
+        "artists": [
+          {
+            "name": "Эльбрус Джанмирзоев feat. Alexandros Tsopozidis"
+          }
+        ],
+        "added_at": "2024-12-20T13:24:00",
+        "duration_ms": 176196
+      },
+      {
+        "id": "6EpQ1y9VipffuPRhI3GTQc",
+        "name": "We are the People",
+        "album": {
+          "name": "Walking on a Dream",
+          "images": [
+            {
+              "url": "/img/album-covers/weare.jpg"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7?si=82cb849e90cc4023",
+            "deezer": "https://link.deezer.com/s/32rLPu002FfhOg6tFMFVM"
+          }
+        },
+        "artists": [
+          {
+            "name": "Empire Of The Sun"
+          }
+        ],
+        "added_at": "2024-10-31T11:38:16Z",
+        "duration_ms": 341368
+      },
+      {
+        "id": "7bu3H8JO7d0UbMoVzbo70s",
+        "name": "Blinding Lights",
+        "album": {
+          "name": "After Hours",
+          "images": [
+            {
+              "url": "/img/album-covers/blinding.png"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=d9038a4df2a1400d",
+            "deezer": "https://link.deezer.com/s/32rLQQPJLo849Co7tS3BU"
+          }
+        },
+        "artists": [
+          {
+            "name": "The Weeknd"
+          }
+        ],
+        "added_at": "2024-10-31T11:38:16Z",
+        "duration_ms": 200040
+      },
+      {
+        "id": "3uaKz4HTXFCGzIHmqRMLcO",
+        "name": "Freed From Desire",
+        "album": {
+          "name": "Come into My Life",
+          "images": [
+            {
+              "url": "/img/album-covers/gala.jpg"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2?si=ab13ca611edb4e9b",
+            "deezer": "https://link.deezer.com/s/32rLRQekUfFGbOikOfnk1"
+          }
+        },
+        "artists": [
+          {
+            "name": "The Gala"
+          }
+        ],
+        "added_at": "2024-08-13T08:34:37Z",
+        "duration_ms": 233000
+      },
+      {
+        "id": "1gl0S9pS0Zw0qfa14rDD3D",
+        "name": "Starboy",
+        "album": {
+          "name": "Starboy",
+          "images": [
+            {
+              "url": "/img/album-covers/starboy.jpg"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB?si=74691fa6c25745ea",
+            "deezer": "https://link.deezer.com/s/32rLTbks2uB1ROa9Q4DNW"
+          }
+        },
+        "artists": [
+          {
+            "name": "The Weeknd"
+          }
+        ],
+        "added_at": "2024-08-12T17:04:18Z",
+        "duration_ms": 230453
+      },
+      {
+        "id": "1QFh8OH1e78dGd3VyJZCAC",
+        "name": "Где Ты Теперь и С Кем",
+        "album": {
+          "name": "Где Ты Теперь и С Кем",
+          "images": [
+            {
+              "url": "/img/album-covers/rus.png"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7zKRBfhF6CABVsc8b1spJ0?si=c416418c79624564",
+            "deezer": "https://link.deezer.com/s/32rLU3vCcHdhO4TsZDEpo"
+          }
+        },
+        "artists": [
+          {
+            "name": "HammAli And Navai"
+          }
+        ],
+        "added_at": "2024-08-15T17:19:54Z",
+        "duration_ms": 307887
+      }
+    ],
+    "length": 7
+  }
+}

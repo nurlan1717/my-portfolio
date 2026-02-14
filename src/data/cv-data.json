@@ -1,0 +1,104 @@
+{
+  "az": {
+    "education": [
+      {
+        "degree": "Azərbaycan Memarlıq və İnşaat Universiteti",
+        "institution": "Informasiya Təhlükəsizliyi",
+        "year": "2022 - 2026"
+      },
+      {
+        "degree": "Code Academy",
+        "institution": "Software Development | High Honour Diploma",
+        "year": "2024 - 2025"
+      },
+      {
+        "degree": "Div Academy",
+        "institution": "Kiber Təhlükəsizlik",
+        "year": "2025 - 2026"
+      }
+    ],
+    "workExperience": [
+      {
+        "jobTitle": "Founder & Lead Developer",
+        "company": "MasterUni",
+        "year": "Iyul - Hazırda",
+        "responsibilities": [
+          "Startap",
+          "Təhsil Platforması",
+          "Full-Stack Veb Sayt"
+        ]
+      },
+      {
+        "jobTitle": "CİO & Full-Stack Web Developer",
+        "company": "Contheron",
+        "year": "Noyabr - Hazırda",
+        "responsibilities": [
+          "Next.js və WebSocket Fullstack web sayt",
+          "Sensorların inteqrasiyası",
+          "İnkubasiya qalibi"
+        ]
+      },
+      {
+        "jobTitle": "4SİM Azərbaycan",
+        "company": "Frontend Team Lead",
+        "year": "Avqust - Noyabr 2025",
+        "responsibilities": [
+          "React",
+          "Frontend Developer",
+          "Komanda Rəhbəri"
+        ]
+      }
+    ]
+  },
+  "en": {
+    "education": [
+      {
+        "degree": "Azerbaijan University of Architecture and Construction",
+        "institution": "Information Security",
+        "year": "2022 - 2026"
+      },
+      {
+        "degree": "Code Academy",
+        "institution": "Software Development | High Honour Diploma",
+        "year": "2024 - 2025"
+      },
+      {
+        "degree": "Div Academy",
+        "institution": "Kiber Təhlükəsizlik",
+        "year": "2025 - 2026"
+      }
+    ],
+    "workExperience": [
+      {
+        "jobTitle": "Founder & Lead Developer",
+        "company": "MasterUni",
+        "year": "June - Present",
+        "responsibilities": [
+          "Startap",
+          "Educational Platform",
+          "Full-Stack Website"
+        ]
+      },
+      {
+        "jobTitle": "CİO & Full-Stack Web Developer",
+        "company": "Contheron",
+        "year": "November - Present",
+        "responsibilities": [
+          "Next.js and WebSocket Fullstack web site",
+          "Sensor integration",
+          "Incubation winner"
+        ]
+      },
+      {
+        "jobTitle": "Frontend Team Lead",
+        "company": "C4İR Azerbaijan",
+        "year": "August - November 2025",
+        "responsibilities": [
+          "React",
+          "Frontend Developer",
+          "Team Lead"
+        ]
+      }
+    ]
+  }
+}
